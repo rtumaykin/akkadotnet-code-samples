@@ -1,5 +1,5 @@
 # Akka.NET Professional Code Samples
-
+jhjhjh
 [Akka.NET](http://getakka.net/ "Akka.NET - .NET distributed actor framework") is a radically different way of developing concurrent and networked applications in .NET, and so it's important to have a number of high quality reference applications developers can explore in order to better understand how to design and model software using Actors and Akka.NET.
 
 That's the goal of this repository - to provide a small number of *exceptionally* well-explained and documented examples .NET architects and developers can use to better understand how to take advantage of Akka.NET's full potential.
